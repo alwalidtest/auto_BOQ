@@ -1,0 +1,5 @@
+{
+  "name": "Auto-BOQ Architect AI",
+  "description": "An AI-powered application that automates the generation of Bills of Quantities (BOQ) from architectural and structural drawings using Gemini 3.0 models.",
+  "requestFramePermissions": []
+}
